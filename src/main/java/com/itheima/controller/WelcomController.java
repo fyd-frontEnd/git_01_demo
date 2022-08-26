@@ -21,6 +21,9 @@ public class WelcomController {
         System.out.println("--------------hello master branch-------------");
         System.out.println("--------------hello master branch-------------");
         System.out.println("--------------hello master branch-------------");
+        System.out.println("--------------hello master1 branch-------------");
+        System.out.println("--------------hello master1 branch-------------");
+        System.out.println("--------------hello master1 branch-------------");
         return "hello spring boot ";
     }
 
