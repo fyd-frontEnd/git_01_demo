@@ -24,7 +24,7 @@ public class WelcomController {
         System.out.println("--------------hello master branch-------------");
         System.out.println("--------------hello master branch-------------");
         System.out.println("--------------hello master branch-------------");
-        return "hello spring boot ";
+        return "hello spring boot hot-fix";
     }
 
 }
