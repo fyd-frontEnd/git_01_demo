@@ -15,6 +15,7 @@ public class WelcomController {
 
     @GetMapping()
     public Object index(){
+        System.out.println("---------------------------");
         return "hello spring boot ";
     }
 
